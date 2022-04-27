@@ -1,3 +1,8 @@
 body {
     background: pink;
+    max-width: max-content;
+    margin: auto;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
