@@ -7,26 +7,31 @@ body {
     padding-bottom: 20px;  
 }
 
+
+
 .favCar{
     background-color: wheat;
+} 
+.favCar #input{
+    background-color: white;
 }
 #enter{
     background-color: wheat;
 }
-img{
-    display: inline;
-}
 p{
     display: inline;
+    vertical-align: top;
+    
 }
 a:visited {
     color: peru;
 }
-.link{
+a{
     display: block;
     font-size: x-large;
     margin: auto;
     text-align: center;
-    padding-top: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     background-color: burlywood;
 }
