@@ -8,7 +8,10 @@ body {
 }
 
 .favCar{
-    padding-left: 100px;
+    
+}
+#enter{
+    background-color: wheat;
 }
 img{
     display: block;
