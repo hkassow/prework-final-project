@@ -19,6 +19,9 @@ img{
 p{
     display: inline;
 }
+a:visited {
+    color: peru;
+}
 .link{
     display: block;
     font-size: x-large;
