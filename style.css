@@ -14,12 +14,16 @@ body {
     background-color: wheat;
 }
 img{
-    display: block;
+    display: inline;
 }
-#about{
+p{
+    display: inline;
+}
+.link{
     display: block;
     font-size: x-large;
     margin: auto;
     text-align: center;
     padding-top: 40px;
+    background-color: burlywood;
 }
