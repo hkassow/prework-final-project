@@ -4,5 +4,12 @@ body {
     margin: auto;
 
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 20px;  
+}
+
+.favCar{
+    padding-left: 100px;
+}
+img{
+    display: block;
 }
