@@ -2,17 +2,24 @@ body {
     background: pink;
     max-width: max-content;
     margin: auto;
-
+    text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;  
 }
 
 .favCar{
-    
+    background-color: wheat;
 }
 #enter{
     background-color: wheat;
 }
 img{
     display: block;
+}
+#about{
+    display: block;
+    font-size: x-large;
+    margin: auto;
+    text-align: center;
+    padding-top: 40px;
 }
