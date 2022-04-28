@@ -8,11 +8,13 @@ const clickBox = document.getElementById('enter');
 const input = document.getElementById('input')
 
 clickBox.addEventListener('click', function() {
-  if (input.value === ('delica' || 'Delica')){
+  if (input.value.toLowerCase().includes('delica')){
       alert('nice!');
   }
   else {
       alert('bad choice, try delica');
   }
 });
+
+
 
