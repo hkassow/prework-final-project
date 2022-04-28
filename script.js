@@ -12,7 +12,7 @@ clickBox.addEventListener('click', function() {
       alert('nice!');
   }
   else {
-      alert('bad choice, try delica');
+      alert('bad choice, try something with delica \n like: "1997 mitsubishi DELiCa star wagon"');
   }
 });
 
