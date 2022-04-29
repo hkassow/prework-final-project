@@ -15,12 +15,21 @@ body {
 .favCar #input{
     background-color: white;
 }
-#enter{
-    background-color: wheat;
+
+div{
+    position: relative;
+}
+
+img {
+    position: relative;
+    margin: 20px;
 }
 p{
     display: inline;
     vertical-align: top;
+    position: relative;
+    top: 50px;
+    margin: 20px;
     
 }
 a:visited {
@@ -31,7 +40,12 @@ a{
     font-size: x-large;
     margin: auto;
     text-align: center;
+    
+}
+#footer{
     padding-top: 10px;
     padding-bottom: 10px;
-    background-color: burlywood;
+    color: burlywood;
+    position: fixed;
+    bottom: 0;
 }
