@@ -24,12 +24,14 @@ img {
     margin: 20px;
 }
 p{
-    display: inline;
-    vertical-align: top;
+    display: inline-block;
     position: relative;
+    vertical-align: top;
+    word-wrap: break-word;
     top: 50px;
+    padding-bottom: 10px;
     margin: 20px;
-    
+    width: 150px;
 }
 a:visited {
     color: peru;
