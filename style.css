@@ -37,10 +37,11 @@ a:visited {
     color: peru;
 }
 a{
-    display: block;
+    display: inline-block;
     font-size: x-large;
-    margin: auto;
     text-align: center;
+    width: 25%;
+    
     
 }
 #footer{
