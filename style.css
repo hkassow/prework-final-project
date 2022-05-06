@@ -11,7 +11,7 @@ body {
 .favCar{
     background-color: wheat;
 } 
-.favCar #input{
+#input{
     background-color: white;
 }
 
