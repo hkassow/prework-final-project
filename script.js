@@ -15,6 +15,3 @@ clickBox.addEventListener('click', function() {
       alert('bad choice, try something with delica \n like: "1997 mitsubishi DELiCa star wagon"');
   }
 });
-
-
-
