@@ -5,7 +5,7 @@ document.querySelector("body").appendChild(h2);
 */
 
 const clickBox = document.getElementById('enter');
-const input = document.getElementById('input')
+const input = document.getElementById('input');
 
 clickBox.addEventListener('click', function() {
   if (input.value.toLowerCase().includes('delica')){
